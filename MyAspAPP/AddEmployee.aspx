@@ -4,7 +4,7 @@
         <div class="col-6 offset-3">
             <div class="card">
                 <div class="card-header">
-                    <h4 class="card-title">Add Employee</h4>
+                    <h4 class="card-title">Register Employee</h4>
                 </div>
                 <div class="card-body">
                     <div class="form-group">
